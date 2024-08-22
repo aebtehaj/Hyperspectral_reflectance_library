@@ -1,4 +1,4 @@
-# A Hyperspectral Reflectance Database of Plastic Debris for River Ecosystems
+# A Hyperspectral Reflectance Database of Plastic Debris for River Ecosystems 
 
 
 This repository presents a hyperspectral reflectance dataset of weathered and virgin floating plastic debris with different sizes and types under controlled laboratory conditions. 
