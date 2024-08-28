@@ -96,8 +96,8 @@ end
 % Display the table
 disp(T2);
 %% Open specific netcdf file
-%ask the user to input a random number from 1 to 2048 for opening netcdf file
-prompt = {'Enter a number (from 1 to 2048) for displaying a spectrum:'};
+%ask the user to input a random number from 1 to 2078 for opening netcdf file
+prompt = {'Enter a number (from 1 to 2078) for displaying a spectrum:'};
 dlgtitle = 'Observation number';
 fieldsize = [1 45];
 definput = {'1'};
